@@ -7,8 +7,7 @@ meaning that the number you selected to put in that space is either in the same 
 will not allow you to place it there. When you have filled the board, you can either reset the board with "d" or clear
 the board with "r".
 
-[Sudoku Demo](http://youtube.link.goes.here)
-
+[Sudoku Demo](https://www.youtube.com/watch?v=4d68XffLE9A)
 # Development Environment
 
 To create this program, I used Python's pygame. I decided to use several classes to encapsulate my project calling 
